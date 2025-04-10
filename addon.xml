@@ -9,5 +9,7 @@
         <summary lang="en">Public Domain Movies</summary>
         <description lang="en">Browse and watch movies from Archive.org's public domain collection.</description>
         <platform>all</platform>
+           <assets>
+            <icon>icon.png</icon>
     </extension>
 </addon>
