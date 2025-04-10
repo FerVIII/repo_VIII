@@ -1,0 +1,5 @@
+<settings>
+    <category label="30001">
+        <setting id="example_setting" type="bool" label="Enable Example Setting" default="true" />
+    </category>
+</settings>
